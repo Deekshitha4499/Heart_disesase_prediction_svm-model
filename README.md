@@ -1,1 +1,3 @@
 # Heart_disesase_prediction_svm-model
+In this project, we delve into a dataset encapsulating various health metrics from heart patients, including age, blood pressure, heart rate, and more. Our goal is to develop a predictive model capable of accurately identifying individuals with heart disease. Given the grave implications of missing a positive diagnosis, our primary emphasis is on ensuring that the model identifies all potential patients, making recall for the positive class a crucial metric.
+For this we are using SUPPORT VECTOR MACHINE (SVM) MODEL as predictive model........
